@@ -1,30 +1,124 @@
-# 💫 Hello, I am Shubham Ratra
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  HEADER — animated waving banner                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-### ✍️ A passionate Backend Developer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Shubham%20Ratra&fontSize=58&fontColor=39d353&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20API%20Architect%20%C2%B7%20Problem%20Solver&descAlignY=58&descSize=18&descColor=e6edf3&animation=fadeIn" alt="Shubham Ratra" />
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  TERMINAL BOOT-UP — animated typing                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-🛠 I’m currently working on: Full-stack web apps using React, Node.js, Express, and MongoDB<br><br>🤝 I’m looking to collaborate on: Open-source projects, SaaS ideas, and real-world web products<br><br>🧠 I’m looking for help with: System design, backend scalability, and DevOps best practices<br><br>🌱 I’m currently learning: Next.js, Redis, Microservices architecture, API optimization, and modern authentication flows<br><br>💬 Ask me about: Node, Database, AI, Vibe coding REST APIs, backend logic.
+<div align="center">
 
+[![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&height=110&lines=%24+whoami;%3E+Shubham+Ratra+%E2%80%94+Backend+Developer;%24+cat+mission.txt;%3E+Building+scalable%2C+real-world+web+systems;%24+sudo+make+coffee+%26%26+ship+code)](https://github.com/iamshubhamratra)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_shubhamratra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shubham-ratra-b2b265245) 
+<img src="https://komarev.com/ghpvc/?username=iamshubhamratra&style=for-the-badge&color=39d353&label=PROFILE+VIEWS" alt="profile views" />
+&nbsp;
+<a href="https://www.linkedin.com/in/shubham-ratra-b2b265245"><img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/iam_shubhamratra"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=39d353" alt="Instagram" /></a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamshubhamratra&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iamshubhamratra&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubhamratra&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamshubhamratra&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  ABOUT ME — as a JS object                                   ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
+## 💡 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iamshubhamratra&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+```js
+const shubham = {
+  role: "Backend Developer",
+  building: "Full-stack web apps · React · Node.js · Express · MongoDB",
+  collaborateOn: ["Open-source projects", "SaaS ideas", "Real-world web products"],
+  helpWith: ["System design", "Backend scalability", "DevOps best practices"],
+  learning: ["Next.js", "Redis", "Microservices", "API optimization", "Modern auth flows"],
+  askMeAbout: ["Node", "Databases", "AI", "Vibe coding", "REST APIs", "Backend logic"],
+};
+```
 
----
-[![](https://visitcount.itsvg.in/api?id=iamshubhamratra&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  TECH STACK — grouped & curated                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧰 Tech Stack
+
+<table align="center">
+  <tr valign="middle">
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,python,js,ts" alt="C++, Python, JavaScript, TypeScript" /></td>
+  </tr>
+  <tr valign="middle">
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="HTML, CSS, React, Vite" /></td>
+  </tr>
+  <tr valign="middle">
+    <td align="right"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,graphql" alt="Node.js, Express, GraphQL" /></td>
+  </tr>
+  <tr valign="middle">
+    <td align="right"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" alt="MongoDB, MySQL, PostgreSQL, Redis" /></td>
+  </tr>
+  <tr valign="middle">
+    <td align="right"><b>DevOps &amp; Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,cloudflare,vercel" alt="Docker, GitHub Actions, Git, GitHub, Cloudflare, Vercel" /></td>
+  </tr>
+  <tr valign="middle">
+    <td align="right"><b>Tools &amp; Design</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postman,notion,figma,ps,pr" alt="Postman, Notion, Figma, Photoshop, Premiere Pro" /></td>
+  </tr>
+</table>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  GITHUB STATS — themed to match                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamshubhamratra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=39d353&icon_color=1f6feb&text_color=a8b3cf&bg_color=0d1117&ring_color=39d353" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubhamratra&layout=compact&langs_count=8&hide_border=true&title_color=39d353&text_color=a8b3cf&bg_color=0d1117" alt="Top languages" />
+
+<br/>
+
+<img width="78%" src="https://streak-stats.demolab.com?user=iamshubhamratra&hide_border=true&background=0d1117&stroke=21262d&ring=39d353&fire=39d353&currStreakLabel=39d353&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=e6edf3&dates=8b949e" alt="GitHub streak" />
+
+<br/>
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamshubhamratra&bg_color=0d1117&color=e6edf3&line=39d353&point=1f6feb&area=true&area_color=39d353&hide_border=true&radius=8" alt="Contribution activity graph" />
+
+</div>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  TROPHIES                                                    ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=iamshubhamratra&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
+
+</div>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  FOOTER                                                      ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" alt="footer" />
+
+<!--
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║  OPTIONAL: Contribution-snake animation                              ║
+  ║  Adds a snake that eats your contribution graph. It needs a GitHub   ║
+  ║  Action to generate the SVG. To enable:                              ║
+  ║   1. Create .github/workflows/snake.yml in your profile repo with    ║
+  ║      Platane/snk@v3 (search "Platane snk github action").            ║
+  ║   2. Let it run once, then uncomment the image below.                ║
+  ╚══════════════════════════════════════════════════════════════════════╝
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iamshubhamratra/iamshubhamratra/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
+-->
