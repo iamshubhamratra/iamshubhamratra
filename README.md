@@ -25,16 +25,30 @@
 
 ## 💡 About Me
 
-```js
-const shubham = {
-  role: "Backend Developer",
-  building: "Full-stack web apps · React · Node.js · Express · MongoDB",
-  collaborateOn: ["Open-source projects", "SaaS ideas", "Real-world web products"],
-  helpWith: ["System design", "Backend scalability", "DevOps best practices"],
-  learning: ["Next.js", "Redis", "Microservices", "API optimization", "Modern auth flows"],
-  askMeAbout: ["Node", "Databases", "AI", "Vibe coding", "REST APIs", "Backend logic"],
-};
-```
+<table>
+  <tr>
+    <td valign="top" width="36%" align="center">
+<pre>
+ ____   ____  
+/ ___| |  _ \ 
+\___ \ | |_) |
+ ___) ||  _ &lt; 
+|____/ |_| \_\
+</pre>
+<b>&lt; Backend Developer /&gt;</b>
+    </td>
+    <td valign="top">
+<b><code>shubham@dev</code></b><br>
+<code>──────────────────────────────</code><br><br>
+🛠&nbsp;&nbsp;<b>Building</b> — Full-stack web apps · React · Node.js · Express · MongoDB<br><br>
+🤝&nbsp;&nbsp;<b>Collaborate on</b> — Open-source projects · SaaS ideas · Real-world web products<br><br>
+🧠&nbsp;&nbsp;<b>Help with</b> — System design · Backend scalability · DevOps best practices<br><br>
+🌱&nbsp;&nbsp;<b>Learning</b> — Next.js · Redis · Microservices · API optimization · Modern auth flows<br><br>
+💬&nbsp;&nbsp;<b>Ask me about</b> — Node · Databases · AI · Vibe coding · REST APIs · Backend logic<br><br>
+🟥 🟧 🟨 🟩 🟦 🟪 ⬛ ⬜ &nbsp;&nbsp;<code>● Available for work</code>
+    </td>
+  </tr>
+</table>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║  TECH STACK — grouped & curated                             ║ -->
