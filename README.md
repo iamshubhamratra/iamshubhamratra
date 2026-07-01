@@ -28,14 +28,10 @@
 <table>
   <tr>
     <td valign="top" width="36%" align="center">
-<pre>
- ____   ____  
-/ ___| |  _ \ 
-\___ \ | |_) |
- ___) ||  _ &lt; 
-|____/ |_| \_\
-</pre>
-<b>&lt; Backend Developer /&gt;</b>
+<br>
+<img src="assets/sr-monogram.png" width="148" alt="SR monogram" />
+<br><br>
+🟥 🟧 🟨 🟩 🟦 🟪 ⬛ ⬜
     </td>
     <td valign="top">
 <b><code>shubham@dev</code></b><br>
@@ -45,7 +41,7 @@
 🧠&nbsp;&nbsp;<b>Help with</b> — System design · Backend scalability · DevOps best practices<br><br>
 🌱&nbsp;&nbsp;<b>Learning</b> — Next.js · Redis · Microservices · API optimization · Modern auth flows<br><br>
 💬&nbsp;&nbsp;<b>Ask me about</b> — Node · Databases · AI · Vibe coding · REST APIs · Backend logic<br><br>
-🟥 🟧 🟨 🟩 🟦 🟪 ⬛ ⬜ &nbsp;&nbsp;<code>● Available for work</code>
+🟢&nbsp;&nbsp;<b>Available for work</b>
     </td>
   </tr>
 </table>
