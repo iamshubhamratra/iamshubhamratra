@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&height=110&lines=%24Hello+Let's+Build+It+Together+;%3E+Shubham+Ratra+%E2%80%94+FullStack+Developer;%3E+Building+scalable%2C+real-world+web+systems;%24+Drink+Coffee+%26%26+Ship+Code)](https://github.com/iamshubhamratra)
+[![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&height=110&lines=%24Let's+Build+It+Together+;%3E+Shubham+Ratra+%E2%80%94+FullStack+Developer;%3E+Building+scalable%2C+real-world+web+systems;%24+Drink+Coffee+%26%26+Ship+Code)](https://github.com/iamshubhamratra)
 
 <img src="https://komarev.com/ghpvc/?username=iamshubhamratra&style=for-the-badge&color=39d353&label=PROFILE+VIEWS" alt="profile views" />
 &nbsp;
