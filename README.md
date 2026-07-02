@@ -1,28 +1,24 @@
-<!-- ═══════════════════════════════════════════════════════════════════════
-     HERO BANNER  (animated SVG — commit assets/hero-banner.svg)
-════════════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  HEADER — animated waving banner                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<a href="https://github.com/iamshubhamratra">
-  <img width="100%" src="assets/hero-banner.svg" alt="Shubham Ratra — Backend Developer" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Shubham%20Ratra&fontSize=58&fontColor=39d353&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20API%20Architect%20%C2%B7%20Problem%20Solver&descAlignY=58&descSize=18&descColor=e6edf3&animation=fadeIn" alt="Shubham Ratra" />
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     TERMINAL CARD  (animated SVG — commit assets/terminal.svg)  +  BADGES
-════════════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  TERMINAL BOOT-UP — animated typing                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="assets/terminal.svg" width="560" alt="shubham@dev — bash" />
+[![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&height=110&lines=%24+whoami;%3E+Shubham+Ratra+%E2%80%94+Backend+Developer;%24+cat+mission.txt;%3E+Building+scalable%2C+real-world+web+systems;%24+sudo+make+coffee+%26%26+ship+code)](https://github.com/iamshubhamratra)
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=iamshubhamratra&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=iamshubhamratra&style=for-the-badge&color=39d353&label=PROFILE+VIEWS" alt="profile views" />
 &nbsp;
-<a href="https://www.linkedin.com/in/shubham-ratra-b2b265245"><img src="https://img.shields.io/badge/LinkedIn-22d3ee?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-&nbsp;
-<a href="https://instagram.com/iam_shubhamratra"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=f472b6" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/shubham-ratra-b2b265245"><img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/iam_shubhamratra"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=39d353" alt="Instagram" /></a>
 
 </div>
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════
      ABOUT ME  (neofetch panel — commit assets/sr-monogram.png)
