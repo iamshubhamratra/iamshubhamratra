@@ -1,24 +1,28 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  HEADER — animated waving banner                              ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════════
+     HERO BANNER  (animated SVG — commit assets/hero-banner.svg)
+════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Shubham%20Ratra&fontSize=58&fontColor=39d353&fontAlignY=38&desc=FullStack%20Developer%20%C2%B7%20API%20Architect%20%C2%B7%20Problem%20Solver&descAlignY=58&descSize=18&descColor=e6edf3&animation=fadeIn" alt="Shubham Ratra" />
+<a href="https://github.com/iamshubhamratra">
+  <img width="100%" src="assets/hero-banner.svg" alt="Shubham Ratra — Backend Developer" />
+</a>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  TERMINAL BOOT-UP — animated typing                          ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════════
+     TERMINAL CARD  (animated SVG — commit assets/terminal.svg)  +  BADGES
+════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&height=110&lines=%24+Let's+Build+It+Together+;%3E+Shubham+Ratra+%E2%80%94+FullStack+Developer;%3E+Building+scalable%2C+real-world+web+systems;%24+Drink+Coffee+%26%26+Ship+Code)](https://github.com/iamshubhamratra)
+<img src="assets/terminal.svg" width="560" alt="shubham@dev — bash" />
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=iamshubhamratra&style=for-the-badge&color=39d353&label=PROFILE+VIEWS" alt="profile views" />
 &nbsp;
 <a href="https://www.linkedin.com/in/shubham-ratra-b2b265245"><img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
 <a href="https://instagram.com/iam_shubhamratra"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=39d353" alt="Instagram" /></a>
 
 </div>
-
 
 <!-- ═══════════════════════════════════════════════════════════════════════
      ABOUT ME  (neofetch panel — commit assets/sr-monogram.png)
@@ -88,16 +92,16 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamshubhamratra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=22d3ee&icon_color=a78bfa&text_color=8b93b0&bg_color=0d1117&ring_color=22d3ee" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubhamratra&layout=compact&langs_count=8&hide_border=true&title_color=22d3ee&text_color=8b93b0&bg_color=0d1117" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamshubhamratra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=39d353&icon_color=1f6feb&text_color=a8b3cf&bg_color=0d1117&ring_color=39d353" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubhamratra&layout=compact&langs_count=8&hide_border=true&title_color=39d353&text_color=a8b3cf&bg_color=0d1117" alt="Top languages" />
 
 <br/>
 
-<img width="78%" src="https://streak-stats.demolab.com?user=iamshubhamratra&hide_border=true&background=0d1117&stroke=21262d&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=e6edf3&dates=8b949e" alt="GitHub streak" />
+<img width="78%" src="https://streak-stats.demolab.com?user=iamshubhamratra&hide_border=true&background=0d1117&stroke=21262d&ring=39d353&fire=39d353&currStreakLabel=39d353&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=e6edf3&dates=8b949e" alt="GitHub streak" />
 
 <br/>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamshubhamratra&bg_color=0d1117&color=8b93b0&line=22d3ee&point=f472b6&area=true&area_color=a78bfa&hide_border=true&radius=8" alt="Contribution activity graph" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamshubhamratra&bg_color=0d1117&color=e6edf3&line=39d353&point=1f6feb&area=true&area_color=39d353&hide_border=true&radius=8" alt="Contribution activity graph" />
 
 </div>
 
@@ -109,7 +113,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamshubhamratra&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=iamshubhamratra&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
 
 </div>
 
@@ -147,9 +151,9 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shubham-ratra-b2b265245"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-22d3ee?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/iam_shubhamratra"><img src="https://img.shields.io/badge/Instagram-Follow-0d1117?style=for-the-badge&logo=instagram&logoColor=f472b6" alt="Instagram" /></a>
-<a href="https://github.com/iamshubhamratra"><img src="https://img.shields.io/badge/GitHub-Follow-121011?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/shubham-ratra-b2b265245"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/iam_shubhamratra"><img src="https://img.shields.io/badge/Instagram-Follow-0d1117?style=for-the-badge&logo=instagram&logoColor=39d353" alt="Instagram" /></a>
+<a href="https://github.com/iamshubhamratra"><img src="https://img.shields.io/badge/GitHub-Follow-121011?style=for-the-badge&logo=github&logoColor=39d353" alt="GitHub" /></a>
 
 </div>
 
@@ -157,6 +161,6 @@
      FOOTER
 ════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a78bfa,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting%20%E2%80%94%20let's%20build%20something!&fontSize=20&fontColor=e6edf3&fontAlignY=72&descAlignY=90" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting%20%E2%80%94%20let's%20build%20something!&fontSize=20&fontColor=e6edf3&fontAlignY=72&descAlignY=90" alt="footer" />
 
 <div align="center"><sub>💚 Made with a bit of code and a lot of coffee.</sub></div>
