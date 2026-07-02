@@ -2,7 +2,7 @@
 <!-- ║  HEADER — animated waving banner                              ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Shubham%20Ratra&fontSize=58&fontColor=39d353&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20API%20Architect%20%C2%B7%20Problem%20Solver&descAlignY=58&descSize=18&descColor=e6edf3&animation=fadeIn" alt="Shubham Ratra" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Shubham%20Ratra&fontSize=58&fontColor=39d353&fontAlignY=38&desc=FullStack%20Developer%20%C2%B7%20API%20Architect%20%C2%B7%20Problem%20Solver&descAlignY=58&descSize=18&descColor=e6edf3&animation=fadeIn" alt="Shubham Ratra" />
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║  TERMINAL BOOT-UP — animated typing                          ║ -->
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&height=110&lines=%24+hello;%3E+Shubham+Ratra+%E2%80%94+FullStack+Developer;%24+cat+mission.txt;%3E+Building+scalable%2C+real-world+web+systems;%24+sudo+make+coffee+%26%26+ship+code)](https://github.com/iamshubhamratra)
+[![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&height=110&lines=%24Hello+EveryOne+;%3E+Shubham+Ratra+%E2%80%94+FullStack+Developer;%3E+Building+scalable%2C+real-world+web+systems;%24+Drink+Coffee+%26%26+Ship+Code)](https://github.com/iamshubhamratra)
 
 <img src="https://komarev.com/ghpvc/?username=iamshubhamratra&style=for-the-badge&color=39d353&label=PROFILE+VIEWS" alt="profile views" />
 &nbsp;
