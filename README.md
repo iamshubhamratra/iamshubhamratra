@@ -30,7 +30,7 @@
   <tr>
     <td valign="top" width="34%" align="center">
 <br>
-<img src="assets/sr-monogram.png" width="148" alt="SR monogram" />
+<img src="sr-monogram.png" width="148" alt="SR monogram" />
 <br><br>
 🟥 🟧 🟨 🟩 🟦 🟪 ⬛ ⬜
     </td>
