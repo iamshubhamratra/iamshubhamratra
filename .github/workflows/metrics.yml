@@ -27,10 +27,10 @@ jobs:
 
           plugin_followup: yes
 
-          plugin_habits: yes
+          plugin_habits: no
 
           plugin_lines: yes
 
           plugin_stars: yes
 
-          plugin_achievements: yes
+          plugin_achievements: no
