@@ -81,35 +81,14 @@
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════════════
-     GITHUB STATS
+     GITHUB METRICS
 ════════════════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamshubhamratra&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=22d3ee&icon_color=a78bfa&text_color=8b93b0&bg_color=0d1117&ring_color=22d3ee" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubhamratra&layout=compact&langs_count=8&hide_border=true&title_color=22d3ee&text_color=8b93b0&bg_color=0d1117" alt="Top languages" />
-
-<br/>
-
-<img width="78%" src="https://streak-stats.demolab.com?user=iamshubhamratra&hide_border=true&background=0d1117&stroke=21262d&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=e6edf3&dates=8b949e" alt="GitHub streak" />
-
-<br/>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamshubhamratra&bg_color=0d1117&color=8b93b0&line=22d3ee&point=f472b6&area=true&area_color=a78bfa&hide_border=true&radius=8" alt="Contribution activity graph" />
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════
-     TROPHIES
-════════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iamshubhamratra&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
+<img width="100%" src="https://raw.githubusercontent.com/iamshubhamratra/iamshubhamratra/main/github-metrics.svg" alt="GitHub Metrics" />
 
 </div>
 
