@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<img width="80%" src="https://raw.githubusercontent.com/iamshubhamratra/iamshubhamratra/main/github-metrics.svg" alt="GitHub Metrics" />
+<img width="70%" src="https://raw.githubusercontent.com/iamshubhamratra/iamshubhamratra/main/github-metrics.svg" alt="GitHub Metrics" />
 
 </div>
 
