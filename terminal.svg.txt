@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 250" width="560" height="250" fill="none" font-family="'Fira Code', ui-monospace, 'DejaVu Sans Mono', 'Courier New', monospace">
+  <defs>
+    <clipPath id="c1" clipPathUnits="userSpaceOnUse"><rect id="rr1" x="28" y="61" width="0" height="22"><animate attributeName="width" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0075;0.015;0.0225;0.03;0.0375;0.045;0.0525;0.06;1" values="0;9.03;18.06;27.09;36.12;45.15;54.18;63.21;72.24;76.24"/></rect></clipPath>
+    <clipPath id="c2" clipPathUnits="userSpaceOnUse"><rect id="rr2" x="28" y="89" width="0" height="22"><animate attributeName="width" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.08;0.0851;0.0903;0.0954;0.1006;0.1057;0.1109;0.116;0.1211;0.1263;0.1314;0.1366;0.1417;0.1469;0.152;0.1571;0.1623;0.1674;0.1726;0.1777;0.1829;0.188;0.1931;0.1983;0.2034;0.2086;0.2137;0.2189;0.224;0.2291;0.2343;0.2394;0.2446;0.2497;0.2549;0.26;1" values="0;0;9.03;18.06;27.09;36.12;45.15;54.18;63.21;72.24;81.27;90.3;99.33;108.36;117.39;126.42;135.45;144.48;153.51;162.54;171.57;180.6;189.63;198.66;207.69;216.72;225.75;234.78;243.81;252.84;261.87;270.9;279.93;288.96;297.99;307.02;316.05;320.05"/></rect></clipPath>
+    <clipPath id="c3" clipPathUnits="userSpaceOnUse"><rect id="rr3" x="28" y="117" width="0" height="22"><animate attributeName="width" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.28;0.2853;0.2906;0.2959;0.3012;0.3065;0.3118;0.3171;0.3224;0.3276;0.3329;0.3382;0.3435;0.3488;0.3541;0.3594;0.3647;0.37;1" values="0;0;9.03;18.06;27.09;36.12;45.15;54.18;63.21;72.24;81.27;90.3;99.33;108.36;117.39;126.42;135.45;144.48;153.51;157.51"/></rect></clipPath>
+    <clipPath id="c4" clipPathUnits="userSpaceOnUse"><rect id="rr4" x="28" y="145" width="0" height="22"><animate attributeName="width" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.39;0.3949;0.3998;0.4047;0.4095;0.4144;0.4193;0.4242;0.4291;0.434;0.4388;0.4437;0.4486;0.4535;0.4584;0.4633;0.4681;0.473;0.4779;0.4828;0.4877;0.4926;0.4974;0.5023;0.5072;0.5121;0.517;0.5219;0.5267;0.5316;0.5365;0.5414;0.5463;0.5512;0.556;0.5609;0.5658;0.5707;0.5756;0.5805;0.5853;0.5902;0.5951;0.6;1" values="0;0;9.03;18.06;27.09;36.12;45.15;54.18;63.21;72.24;81.27;90.3;99.33;108.36;117.39;126.42;135.45;144.48;153.51;162.54;171.57;180.6;189.63;198.66;207.69;216.72;225.75;234.78;243.81;252.84;261.87;270.9;279.93;288.96;297.99;307.02;316.05;325.08;334.11;343.14;352.17;361.2;370.23;379.26;388.29;392.29"/></rect></clipPath>
+    <clipPath id="c5" clipPathUnits="userSpaceOnUse"><rect id="rr5" x="28" y="173" width="0" height="22"><animate attributeName="width" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.62;0.6245;0.629;0.6335;0.6381;0.6426;0.6471;0.6516;0.6561;0.6606;0.6652;0.6697;0.6742;0.6787;0.6832;0.6877;0.6923;0.6968;0.7013;0.7058;0.7103;0.7148;0.7194;0.7239;0.7284;0.7329;0.7374;0.7419;0.7465;0.751;0.7555;0.76;1" values="0;0;9.03;18.06;27.09;36.12;45.15;54.18;63.21;72.24;81.27;90.3;99.33;108.36;117.39;126.42;135.45;144.48;153.51;162.54;171.57;180.6;189.63;198.66;207.69;216.72;225.75;234.78;243.81;252.84;261.87;270.9;279.93;283.93"/></rect></clipPath>
+    <clipPath id="c6" clipPathUnits="userSpaceOnUse"><rect id="rr6" x="28" y="201" width="0" height="22"><animate attributeName="width" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.78;0.7864;0.7927;0.7991;0.8055;0.8118;0.8182;0.8245;0.8309;0.8373;0.8436;0.85;1" values="0;0;9.03;18.06;27.09;36.12;45.15;54.18;63.21;72.24;81.27;90.3;99.33;103.33"/></rect></clipPath>
+  </defs>
+  <rect x="8" y="8" width="544" height="234" rx="13" fill="#04070b" stroke="#20303b" stroke-width="1.5"/>
+  <path d="M8 21 a13 13 0 0 1 13 -13 h518 a13 13 0 0 1 13 13 v21 h-544 z" fill="#0b1118"/>
+  <line x1="8" y1="42" x2="552" y2="42" stroke="#18222c" stroke-width="1"/>
+  <circle cx="28" cy="25" r="6" fill="#ff5f57"/><circle cx="48" cy="25" r="6" fill="#febc2e"/><circle cx="68" cy="25" r="6" fill="#28c840"/>
+  <text x="96" y="30" fill="#5b6675" font-size="13">shubham@dev — bash</text>
+  <g font-size="15">
+    <text x="28" y="76" fill="#39d353" clip-path="url(#c1)">$ whoami</text>
+    <text x="28" y="104" fill="#9aa7b6" clip-path="url(#c2)">&gt; Shubham Ratra — Backend Developer</text>
+    <text x="28" y="132" fill="#39d353" clip-path="url(#c3)">$ cat mission.txt</text>
+    <text x="28" y="160" fill="#9aa7b6" clip-path="url(#c4)">&gt; Building scalable, real-world web systems</text>
+    <text x="28" y="188" fill="#39d353" clip-path="url(#c5)">$ sudo make coffee &amp;&amp; ship code</text>
+    <text x="28" y="216" fill="#7ee787" clip-path="url(#c6)">&gt; ✓ shipped</text>
+  </g>
+  <rect x="129.33" y="203" width="8" height="15" fill="#39d353"><animate attributeName="opacity" dur="8s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.85;0.885;0.915;0.945;0.975;1" values="0;1;0;1;0;1;1"/></rect>
+</svg>
